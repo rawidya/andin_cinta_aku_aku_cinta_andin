@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="assets/gantengku.jpeg" width="100%" alt="Banner">
+  <img src="assets/gantengku.jpeg" width="40%" alt="Banner">
 </p>
 
 you know? how i realy love andin so much?
